@@ -2,6 +2,18 @@
 <img src="assets/banner.png" width="100%">
 </div>
 
+## 👋🏻 Hi there!
+I'm a fullstack developer and a data science enthusiast, but my forte is backend development.
+
+#### About me
+- 👨🏻‍🎓 I'm a sophomore (second year) B.Tech student at [Vellore Institue of Technology, Vellore](https://vit.ac.in)
+- 💼 Currently interning at [Fischer Jordan](https://fischerjordan.com/) as a backend developer
+- 🎧 In my free time I like to code, listen to music and watch shows ~~all at the same time.~~
+- 🌱 Learning golang and AWS
+- 💬 Ask me about python and backend development
+
+<br>
+
 ## 🛠 Tools and Languages
 
 <div>
@@ -49,6 +61,15 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=iCoder&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/iCoder)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=vitty-backend&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/vitty-backend)
 
-<a href="https://www.linkedin.com/in/Dhruv9449/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Dhruv944/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
+<br>
+
+## 📮 Socials
+
+
+
+[![Website Badge](https://img.shields.io/badge/-dhruvshah.ml-black?style=flat-square&logo=netlify&logoColor=white&link=dhruvshah.ml)](dhruvshah.ml)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvshahrds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvshahrds@gmail.com)](mailto:dhruvshahrds@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Dhruv9449-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dhruv9449/)](https://www.linkedin.com/in/Dhruv9449/)
+[![Instagram Badge](https://img.shields.io/badge/-Dhruv9449-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dhruv9449/)](https://instagram.com/Dhruv9449)
+[![Twitter Badge](https://img.shields.io/badge/-Dhruv9449-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Dhruv9449)](https://twitter.com/Dhruv9449)
+[![Discord Badge](https://img.shields.io/badge/-tacos-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/430318015804866560)](https://discord.com/users/430318015804866560)
