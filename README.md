@@ -1,5 +1,5 @@
 <div align=center>
-<img src="assets/banner.png">
+<img src="assets/banner.png" width="100%">
 </div>
 
 ## 🛠 Tools and Languages
