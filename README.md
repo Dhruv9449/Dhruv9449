@@ -10,7 +10,7 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 - 💼 Currently interning at [Fischer Jordan](https://fischerjordan.com/) as a backend developer
 - 🎧 In my free time I like to code, listen to music and watch shows ~~all at the same time.~~
 - 🌱 Learning golang and AWS
-- 💬 Ask me about python and backend development
+- 💬 Ask me about python, django or backend development
 
 <br>
 
