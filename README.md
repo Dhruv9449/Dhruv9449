@@ -9,8 +9,8 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 - 👨🏻‍🎓 I'm a sophomore (second year) B.Tech student at [Vellore Institue of Technology, Vellore](https://vit.ac.in)
 - 💼 Currently interning at [Fischer Jordan](https://fischerjordan.com/) as a backend developer
 - 🎧 In my free time I like to code, listen to music and watch shows ~~all at the same time.~~
-- 🌱 Learning golang and AWS
-- 💬 Ask me about python, django or backend development
+- 🌱 Learning Rust and AWS
+- 💬 Ask me about python, django, go or backend development
 
 <br>
 
@@ -67,7 +67,7 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 
 
 
-[![Website Badge](https://img.shields.io/badge/-dhruvshah.ml-black?style=flat-square&logo=netlify&logoColor=white&link=https://dhruvshah.ml)](https://dhruvshah.ml)
+[![Website Badge](https://img.shields.io/badge/-dhruvshah.ml-black?style=flat-square&logo=netlify&logoColor=white&link=https://dhruvshah.live)](https://dhruvshah.live)
 [![Gmail Badge](https://img.shields.io/badge/-dhruvshahrds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvshahrds@gmail.com)](mailto:dhruvshahrds@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Dhruv9449-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dhruv9449/)](https://www.linkedin.com/in/Dhruv9449/)
 [![Instagram Badge](https://img.shields.io/badge/-Dhruv9449-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dhruv9449/)](https://instagram.com/Dhruv9449)
