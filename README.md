@@ -6,8 +6,8 @@
 I'm a fullstack developer and a data science enthusiast, but my forte is backend development.
 
 #### About me
-- 👨🏻‍🎓 I'm a sophomore (second year) B.Tech student at [Vellore Institue of Technology, Vellore](https://vit.ac.in)
-- 💼 Currently interning at [Fischer Jordan](https://fischerjordan.com/) as a backend developer
+- 👨🏻‍🎓 I'm a senior (third year) B.Tech student at [Vellore Institue of Technology, Vellore](https://vit.ac.in)
+- 💼 Currently interning at [Balkan ID](https://balkan.id/) as a backend developer
 - 🎧 In my free time I like to code, listen to music and watch shows ~~all at the same time.~~
 - 🌱 Learning Rust and AWS
 - 💬 Ask me about python, django, go or backend development
