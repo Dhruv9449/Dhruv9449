@@ -9,7 +9,7 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 - 👨🏻‍🎓 I'm a final year(fourth year) B.Tech student at [Vellore Institue of Technology, Vellore](https://vit.ac.in)
 - 💼 Currently interning at [Balkan ID](https://balkan.id/) as a backend developer
 - 🎧 In my free time I like to code, listen to music and watch shows ~~all at the same time.~~
-- 🌱 Learning Rust and AWS
+- 🌱 Learning various backend technologies
 - 💬 Ask me about python, django, go or backend development
 
 <br>
@@ -58,7 +58,7 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=Chitros&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/Chitros)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=VITime-CLI&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/VITime-CLI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=iCoder&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/iCoder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=Tizori&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/Tizori)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=vitty-backend&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/vitty-backend)
 
 <br>
