@@ -59,7 +59,7 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=Chitros&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/Chitros)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=VITime-CLI&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/VITime-CLI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=Tizori&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/Tizori)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruv9449&repo=vitty-backend&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/vitty-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GDGVIT&repo=vitty-backend&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Dhruv9449/vitty-backend)
 
 <br>
 
