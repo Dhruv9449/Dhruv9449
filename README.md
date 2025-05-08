@@ -7,7 +7,7 @@ I'm a fullstack developer and a data science enthusiast, but my forte is backend
 
 #### About me
 - 👨🏻‍🎓 I'm a final year(fourth year) B.Tech student at [Vellore Institue of Technology, Vellore](https://vit.ac.in)
-- 💼 Currently interning at [Balkan ID](https://balkan.id/) as a backend developer
+- 💼 Currently interning at [Balkan ID](https://balkan.id/) as a fullstack developer
 - 🎧 In my free time I like to code, listen to music and watch shows ~~all at the same time.~~
 - 🌱 Learning various backend technologies
 - 💬 Ask me about python, django, golang or backend development
